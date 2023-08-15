@@ -1,0 +1,2 @@
+I have added the log out feature.
+-I from feature/logout branch
